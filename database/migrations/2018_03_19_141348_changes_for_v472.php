@@ -2,7 +2,7 @@
 
 /**
  * 2018_03_19_141348_changes_for_v472.php
- * Copyright (c) 2019 james@firefly-iii.org.
+ * Copyright (c) 2019 fazilc.dev@gmail.com.
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *

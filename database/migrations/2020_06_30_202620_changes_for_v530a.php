@@ -2,7 +2,7 @@
 
 /**
  * 2020_06_30_202620_changes_for_v530a.php
- * Copyright (c) 2020 james@firefly-iii.org
+ * Copyright (c) 2020 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *

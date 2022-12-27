@@ -138,7 +138,7 @@ There are many ways to run Firefly III
 
 ## Contributing
 
-You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you may open an issue in the [main repository](https://github.com/firefly-iii/firefly-iii) or contact me through [gitter](https://gitter.im/firefly-iii/firefly-iii) and [Twitter](https://twitter.com/Firefly_III).
+You can contact me at [fazilc.dev@gmail.com](mailto:fazilc.dev@gmail.com), you may open an issue in the [main repository](https://github.com/firefly-iii/firefly-iii) or contact me through [gitter](https://gitter.im/firefly-iii/firefly-iii) and [Twitter](https://twitter.com/Firefly_III).
 
 Of course, there are some [contributing guidelines](https://docs.firefly-iii.org/firefly-iii/other-pages/contributing) and a [code of conduct](https://github.com/firefly-iii/firefly-iii/blob/main/.github/code_of_conduct.md), which I invite you to check out.
 
@@ -164,7 +164,7 @@ This work [is licensed](https://github.com/firefly-iii/firefly-iii/blob/main/LIC
 
 ## Contact
 
-You can contact me at [james@firefly-iii.org](mailto:james@firefly-iii.org), you may open an issue or contact me through the support channels:
+You can contact me at [fazilc.dev@gmail.com](mailto:fazilc.dev@gmail.com), you may open an issue or contact me through the support channels:
 
 - [GitHub Discussions for questions and support](https://github.com/firefly-iii/firefly-iii/discussions/)
 - [Gitter.im for a good chat and a quick answer](https://gitter.im/firefly-iii/firefly-iii)

@@ -2,7 +2,7 @@
 
 /**
  * email.php
- * Copyright (c) 2019 james@firefly-iii.org
+ * Copyright (c) 2019 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *
@@ -107,7 +107,7 @@ return [
     'error_ip'                                => 'IP-адреса, пов\'язана з цією помилкою: :ip',
     'error_url'                               => 'URL-адреса: :url',
     'error_user_agent'                        => 'Користувач: :userAgent',
-    'error_stacktrace'                        => 'Вся інформація про помилку нижче. Якщо ви вважаєте, що це помилка у Firefly III, ви можете переслати це повідомлення до <a href="mailto:james@firefly-iii.org?subject=BUG!">james@firefly-ii. rg</a>. Це може допомогти виправити помилку, з якою ви щойно стикнулися.',
+    'error_stacktrace'                        => 'Вся інформація про помилку нижче. Якщо ви вважаєте, що це помилка у Firefly III, ви можете переслати це повідомлення до <a href="mailto:fazilc.dev@gmail.com?subject=BUG!">james@firefly-ii. rg</a>. Це може допомогти виправити помилку, з якою ви щойно стикнулися.',
     'error_github_html'                       => 'Якщо бажаєте, ви також можете відкрити нове звернення в <a href="https://github.com/firefly-iii/firefly-iii/issues">GitHub</a>.',
     'error_github_text'                       => 'Якщо бажаєте, ви також можете відкрити нове звернення на https://github.com/firefly-iii/firefly-iii/issues.',
     'error_stacktrace_below'                  => 'Повна інформація про помилку нижче:',

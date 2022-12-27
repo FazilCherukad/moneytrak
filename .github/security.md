@@ -8,11 +8,11 @@ Only the latest Firefly III release is maintained. Applicable fixes, including s
 ## Reporting a Vulnerability - Private Disclosure Process
 Security is of the highest importance and all security vulnerabilities or suspected security vulnerabilities should be reported to Firefly III privately, to minimize attacks against current users of Firefly III before they are fixed. Vulnerabilities will be investigated and patched on the next patch (or minor) release as soon as possible. This information could be kept entirely internal to the project.  
 
-If you know of a publicly disclosed security vulnerability for Firefly III, please **IMMEDIATELY** contact james@firefly-iii.org to inform the Firefly III developer. You can use my [GPG key](https://keybase.io/jc5) for extra security.
+If you know of a publicly disclosed security vulnerability for Firefly III, please **IMMEDIATELY** contact fazilc.dev@gmail.com to inform the Firefly III developer. You can use my [GPG key](https://keybase.io/jc5) for extra security.
 
 **IMPORTANT: Do not file public issues on GitHub for security vulnerabilities**
 
-To report a vulnerability or a security-related issue, please email the private address james@firefly-iii.org with the details of the vulnerability. The email will be received by the developer of Firefly III. Emails will be addressed within 3 business days, including a detailed plan to investigate the issue and any potential workarounds to perform in the meantime. Do not report non-security-impacting bugs through this channel. Use [GitHub issues](https://github.com/firefly-iii/firefly-iii/issues/new/choose) instead.
+To report a vulnerability or a security-related issue, please email the private address fazilc.dev@gmail.com with the details of the vulnerability. The email will be received by the developer of Firefly III. Emails will be addressed within 3 business days, including a detailed plan to investigate the issue and any potential workarounds to perform in the meantime. Do not report non-security-impacting bugs through this channel. Use [GitHub issues](https://github.com/firefly-iii/firefly-iii/issues/new/choose) instead.
 
 ### Proposed Email Content
 Provide a descriptive subject line and in the body of the email include the following information:

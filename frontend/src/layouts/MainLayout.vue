@@ -1,6 +1,6 @@
 <!--
   - MainLayout.vue
-  - Copyright (c) 2022 james@firefly-iii.org
+  - Copyright (c) 2022 fazilc.dev@gmail.com
   -
   - This file is part of Firefly III (https://github.com/firefly-iii).
   -
@@ -311,7 +311,7 @@
     <q-footer elevated class="bg-grey-8 text-white">
       <q-toolbar>
         <div>
-          <small>Firefly III v TODO &copy; James Cole, AGPL-3.0-or-later.</small>
+         
         </div>
       </q-toolbar>
     </q-footer>

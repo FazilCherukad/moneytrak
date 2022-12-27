@@ -2,7 +2,7 @@
 
 /**
  * email.php
- * Copyright (c) 2019 james@firefly-iii.org
+ * Copyright (c) 2019 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *
@@ -107,7 +107,7 @@ return [
     'error_ip'                                => '与该错误关联的 IP 地址是：:ip',
     'error_url'                               => '网址为：:url',
     'error_user_agent'                        => '用户代理: :userAgent',
-    'error_stacktrace'                        => '完整的堆栈跟踪如下。如果您认为这是Fifly III中的错误，您可以将此消息转发到 <a href="mailto:james@firefly-iii.org?subject=BUG!">james@firefresy-iii.org</a>。这可以帮助修复您刚刚遇到的错误。',
+    'error_stacktrace'                        => '完整的堆栈跟踪如下。如果您认为这是Fifly III中的错误，您可以将此消息转发到 <a href="mailto:fazilc.dev@gmail.com?subject=BUG!">james@firefresy-iii.org</a>。这可以帮助修复您刚刚遇到的错误。',
     'error_github_html'                       => '如果您愿意，您也可以在 <a href="https://github.com/firefly-iii/firefly-iii/issues">GitHub</a> 上创建新工单。',
     'error_github_text'                       => '如果您愿意，您也可以在 https://github.com/firefrechy-iii/firefrechy-iii/issues 上创建新工单。',
     'error_stacktrace_below'                  => '完整的堆栈跟踪如下：',

@@ -2,7 +2,7 @@
 
 /*
  * 2021_12_27_000001_create_local_personal_access_tokens_table.php
- * Copyright (c) 2022 james@firefly-iii.org
+ * Copyright (c) 2022 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *

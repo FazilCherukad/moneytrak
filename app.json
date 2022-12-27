@@ -1,5 +1,5 @@
 {
-  "name": "Firefly III",
+  "name": "White Land",
   "description": "A free and open source personal finances manager",
   "repository": "https://github.com/firefly-iii/firefly-iii",
   "website": "https://firefly-iii.org/",
@@ -59,7 +59,7 @@
   "env": {
     "APP_KEY": {
       "description": "This key is used to create app cookies en secure attachments.",
-      "value": "base64:If1gJN4pyycXTq+WS5TjneDympKuu+8SKvTl6RZnhJg="
+      "value": "base64:If1gJN4pyycXTq+WS5ThjykilhKuu+8SKvTl6RZnhJg="
     }
   }
 }

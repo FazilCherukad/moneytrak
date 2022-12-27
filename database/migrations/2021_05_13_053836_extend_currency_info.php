@@ -2,7 +2,7 @@
 
 /*
  * 2021_05_13_053836_extend_currency_info.php
- * Copyright (c) 2021 james@firefly-iii.org
+ * Copyright (c) 2021 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *

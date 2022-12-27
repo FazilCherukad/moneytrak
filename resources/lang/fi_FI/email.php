@@ -2,7 +2,7 @@
 
 /**
  * email.php
- * Copyright (c) 2019 james@firefly-iii.org
+ * Copyright (c) 2019 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *
@@ -107,7 +107,7 @@ return [
     'error_ip'                                => 'Tähän virheeseen liittyvä IP-osoite on: :ip',
     'error_url'                               => 'URL on: :url',
     'error_user_agent'                        => 'Käyttäjä-agentti: :userAgent',
-    'error_stacktrace'                        => 'Täydellinen stack trace on alla. Jos tämä on bugi Firefly III:ssa, voit lähettää tämän viestin osoitteeseen <a href="mailto:james@firefly-iii.org?subject=BUG!">james@firefly-ii. rg</a>. Tämä voi auttaa korjaamaan juuri kohtaamasi virheen.',
+    'error_stacktrace'                        => 'Täydellinen stack trace on alla. Jos tämä on bugi Firefly III:ssa, voit lähettää tämän viestin osoitteeseen <a href="mailto:fazilc.dev@gmail.com?subject=BUG!">james@firefly-ii. rg</a>. Tämä voi auttaa korjaamaan juuri kohtaamasi virheen.',
     'error_github_html'                       => 'Jos haluat, voit myös avata uuden tiketin <a href="https://github.com/firefly-iii/firefly-iii/issues">GitHubissa</a>.',
     'error_github_text'                       => 'Jos haluat, voit myös avata uuden tiketin osoitteessa https://github.com/firefly-iii/firefly-iii/issues.',
     'error_stacktrace_below'                  => 'Täydellinen stack trace:',

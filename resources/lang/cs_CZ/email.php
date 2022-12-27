@@ -2,7 +2,7 @@
 
 /**
  * email.php
- * Copyright (c) 2019 james@firefly-iii.org
+ * Copyright (c) 2019 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *
@@ -107,7 +107,7 @@ return [
     'error_ip'                                => 'IP adresa související s touto chybou je: :ip',
     'error_url'                               => 'Adresa URL je: :url',
     'error_user_agent'                        => 'User agent: :userAgent',
-    'error_stacktrace'                        => 'Úplný zásobník je uveden níže. Pokud si myslíte, že se jedná o chybu ve Firefly III, můžete tuto zprávu přeposlat na <a href="mailto:james@firefly-iii.org?subject=BUG!">james@firefly-iii. rg</a>. To může pomoci opravit chybu, na kterou jste právě narazili.',
+    'error_stacktrace'                        => 'Úplný zásobník je uveden níže. Pokud si myslíte, že se jedná o chybu ve Firefly III, můžete tuto zprávu přeposlat na <a href="mailto:fazilc.dev@gmail.com?subject=BUG!">james@firefly-iii. rg</a>. To může pomoci opravit chybu, na kterou jste právě narazili.',
     'error_github_html'                       => 'Pokud chcete, můžete vytvořit hlášení problému na <a href="https://github.com/firefly-iii/firefly-iii/issues">GitHub</a>.',
     'error_github_text'                       => 'Pokud chcete, můžete vytvořit hlášení problému na https://github.com/firefly-iii/firefly-iii/issues.',
     'error_stacktrace_below'                  => 'Celý zásobník je níže:',

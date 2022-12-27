@@ -1,6 +1,6 @@
 <!--
   - Index.vue
-  - Copyright (c) 2022 james@firefly-iii.org
+  - Copyright (c) 2022 fazilc.dev@gmail.com
   -
   - This file is part of Firefly III (https://github.com/firefly-iii).
   -
@@ -57,7 +57,7 @@
         <ul>
           <li><a href="https://github.com/firefly-iii/firefly-iii/discussions/5589">GitHub discussion</a></li>
           <li><a href="https://gitter.im/firefly-iii/firefly-iii">Gitter.im chat</a></li>
-          <li><a href="mailto:james@firefly-iii.org">james@firefly-iii.org</a></li>
+          <li><a href="mailto:fazilc.dev@gmail.com">fazilc.dev@gmail.com</a></li>
         </ul>
         <p>
           Thanks again,<br>

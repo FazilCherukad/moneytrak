@@ -1,6 +1,6 @@
 /*
  * axios.js
- * Copyright (c) 2022 james@firefly-iii.org
+ * Copyright (c) 2022 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *
@@ -34,7 +34,7 @@ const cache = setupCache({
 // "export default () => {}" function below (which runs individually
 // for each client)
 
-const url = process.env.DEBUGGING ? 'https://firefly.sd.home' : '/';
+const url = process.env.DEBUGGING ? 'http://localhost' : '/';
 const api = axios.create({baseURL: url, withCredentials: true, adapter: cache.adapter});
 
 export default boot(({app}) => {

@@ -1,6 +1,6 @@
 /*
  * quasar.conf.js
- * Copyright (c) 2022 james@firefly-iii.org
+ * Copyright (c) 2022 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *
@@ -98,10 +98,10 @@ module.exports = configure(function (ctx) {
     // Full list of options: https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-devServer
     devServer: {
       server: {
-        type: 'https'
+        type: 'http'
       },
       port: 8080,
-      host: 'firefly-dev.sd.home',
+      host: 'localhost',
       open: false, // opens browser window automatically
       proxy: [
         {

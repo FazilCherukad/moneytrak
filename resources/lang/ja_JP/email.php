@@ -2,7 +2,7 @@
 
 /**
  * email.php
- * Copyright (c) 2019 james@firefly-iii.org
+ * Copyright (c) 2019 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *
@@ -107,7 +107,7 @@ return [
     'error_ip'                                => 'このエラーに関連する IP アドレス: :ip',
     'error_url'                               => 'URL: :url',
     'error_user_agent'                        => 'ユーザーエージェント: :userAgent',
-    'error_stacktrace'                        => '完全なスタックトレースは以下の通りです。これがバグだと考えるなら、このメッセージを<a href="mailto:james@firefly-iii.org?subject=BUG!">james@firefly-iii.org</a>に届けることができます。これは先ほど遭遇したバグの修正に役立ちます。',
+    'error_stacktrace'                        => '完全なスタックトレースは以下の通りです。これがバグだと考えるなら、このメッセージを<a href="mailto:fazilc.dev@gmail.com?subject=BUG!">fazilc.dev@gmail.com</a>に届けることができます。これは先ほど遭遇したバグの修正に役立ちます。',
     'error_github_html'                       => 'ご希望の場合は、<a href="https://github.com/firefly-iii/firefly-iii/issues">GitHub</a>で新しいissueを作ることもできます。',
     'error_github_text'                       => 'ご希望の場合は、https://github.com/fofoflifly-iii/firelify-ii/issuesで新しいissueを作ることもできます。',
     'error_stacktrace_below'                  => '完全なスタックトレースは以下の通りです:',

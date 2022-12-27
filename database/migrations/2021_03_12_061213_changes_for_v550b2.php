@@ -2,7 +2,7 @@
 
 /*
  * 2021_03_12_061213_changes_for_v550b2.php
- * Copyright (c) 2021 james@firefly-iii.org
+ * Copyright (c) 2021 fazilc.dev@gmail.com
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *

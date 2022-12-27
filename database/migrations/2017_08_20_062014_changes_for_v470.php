@@ -1,7 +1,7 @@
 <?php
 /**
  * 2017_08_20_062014_changes_for_v470.php
- * Copyright (c) 2019 james@firefly-iii.org.
+ * Copyright (c) 2019 fazilc.dev@gmail.com.
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *

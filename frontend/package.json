@@ -3,11 +3,12 @@
   "version": "0.0.1",
   "description": "Personal finances manager",
   "productName": "Firefly III",
-  "author": "James Cole <james@firefly-iii.org>",
+  "author": "James Cole <fazilc.dev@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.ts,.vue ./",
-    "test": "echo \"No test specified\" && exit 0"
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.2",

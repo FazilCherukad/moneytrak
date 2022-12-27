@@ -4,7 +4,7 @@
 # Do not contact me for random vulnerabilities on other people's websites.
 # Firefly III and releated tools only please.
 
-Contact: mailto:james@firefly-iii.org
+Contact: mailto:fazilc.dev@gmail.com
 Encryption: https://keybase.io/jc5/pgp_keys.asc?fingerprint=02f4046c4b236e0609571612b49a324b7ead6d80
 Acknowledgements: https://github.com/firefly-iii/firefly-iii
 Signature: https://firefly-iii.org/.well-known/security.txt.sig

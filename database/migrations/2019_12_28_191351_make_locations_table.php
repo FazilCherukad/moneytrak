@@ -2,7 +2,7 @@
 
 /**
  * 2019_12_28_191351_make_locations_table.php
- * Copyright (c) 2020 james@firefly-iii.org.
+ * Copyright (c) 2020 fazilc.dev@gmail.com.
  *
  * This file is part of Firefly III (https://github.com/firefly-iii).
  *
